@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.anadiv {
+    width: 95%;
+    height: 70px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+span {
+    color: #FF9000;
+}
+
+h1 a {
+    color: white;
+    padding-left: 10rem;
+}
+
+nav ul {
+    display: flex;
+    gap: 30px;
+    padding-right: 15rem;
+}
+
+nav ul li a {
+    color: white;
+}
+
+nav ul li a:hover {
+    color: gray;
+}
+
+.img1 img {
+    width: 1435px;
+    height: 600px;
+    padding-left: 2.5rem;
+}
+
+.lent {
+    width: 500px;
+    height: 400px;
+    background-color: red;
+}
+
+.ana {
+    width: 70%;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.bala h3 {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+span.tast {
+    color: grey;
+}
+
+button {
+    width: 120px;
+    height: 50px;
+    border: none;
+    color: gray;
+}
+
+button.hove {
+    color: white;
+    background-color: #FF9000;
+    border: none;
+}
+
+button.hover1:hover {
+    color: white;
+    background-color: #FF9000;
+}
+
+button.hover2:hover {
+    color: white;
+    background-color: #FF9000;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.bala1 {
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    padding-top: 4rem;
+}
+
+.bala1 img {
+    width: 500px;
+    height: 250px;
+    padding: 30px 25px;
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/about-img2.jpg);
+}
+
+.ana1 {
+    padding-left: 30px;
+}
+
+p {
+    color: #FF9000;
+}
+
+h3 {
+    padding-top: 20px;
+    color: gray;
+}
+
+h4 {
+    padding-top: 20px;
+    color: gray;
+}
+
+.foot {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Services-bg.jpg);
+    width: 100%;
+    height: 800px;
+    padding-top: 5rem;
+}
+
+h1 {
+    color: white;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: white;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+.wonder {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Development-bg.jpg);
+    width: 220px;
+    height: 400px;
+    text-decoration: none;
+}
+.informat{
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/desgin-bg.jpg);
+    width: 220px;
+    height: 400px;
+    text-decoration: none;
+}
+.desdin{
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/concept-bg.jpg);
+    width: 220px;
+    height: 400px;
+    text-decoration: none;
+}
+.setup{
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/systam-bg.jpg);
+    width: 220px;
+    height: 400px;
+    text-decoration: none;
+}
+.foot1{
+   width: 100%;
+   height: 400px;
+   display: flex;
+  justify-content: center;
+}
+.foot2{
+    width: 100%;
+    height: 400px;
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-around;
+}
